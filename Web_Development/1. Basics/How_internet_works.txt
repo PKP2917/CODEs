@@ -1,0 +1,11 @@
+The internet works by connecting millions of devices through a global network. Here’s a simplified breakdown:
+
+1. **Data Transmission** – Information is broken into small packets and sent across networks.
+2. **IP & DNS** – Every device has a unique IP address. The Domain Name System (DNS) translates website names into IP addresses.
+3. **Protocols** – TCP/IP ensures data delivery, HTTP/HTTPS loads websites, and SMTP handles emails.
+4. **Infrastructure** – ISPs provide access, routers/switches direct traffic, and servers store data.
+5. **Request-Response Cycle** – Your browser requests a webpage, a server responds, and the browser displays it.
+6. **Wireless & Mobile** – Wi-Fi and cellular networks transmit data wirelessly.
+7. **Security** – HTTPS encrypts data, firewalls protect networks, and VPNs enhance privacy.
+
+Essentially, the internet is a vast system that transmits data efficiently across the world. 🚀

@@ -1,0 +1,18 @@
+A **web application** has four key parts:  
+
+1️⃣ **Frontend (Client-Side)** – The user interface built with **HTML, CSS, JavaScript** (React, Angular, Vue.js). 
+It handles user interactions and fetches data via APIs.  
+
+2️⃣ **Backend (Server-Side)** – The logic and data processing part, built using **Node.js, Python, Java, PHP, etc.** It manages authentication, business logic, and database interactions.  
+
+3️⃣ **API (Application Programming Interface)** – Acts as a **bridge** between frontend and backend, using **REST or GraphQL** to exchange data in JSON format.  
+
+4️⃣ **Client-Side vs. Server-Side** – **Client-side** (browser) handles UI, while **server-side** (backend) processes requests and manages data.  
+
+### **How It Works:**  
+1. User interacts with the **frontend**.  
+2. Frontend makes an **API request** to the **backend**.  
+3. Backend processes it and retrieves data from the **database**.  
+4. Data is sent back via API, and the **frontend updates the UI**.  
+
+This seamless cycle powers every web application! 🌐🚀

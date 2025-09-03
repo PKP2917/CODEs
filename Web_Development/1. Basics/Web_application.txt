@@ -1,0 +1,16 @@
+A **web application** consists of three main parts:  
+
+1. **Frontend (Client-Side)** – The user interface built with **HTML, CSS, and JavaScript** (React, Angular, Vue.js). It handles user interactions and communicates with the backend via APIs.  
+
+2. **Backend (Server-Side)** – Processes requests, manages logic, and interacts with the database. Built using 
+**Node.js, Python (Django/Flask), Java (Spring Boot), PHP, etc.**  
+
+3. **Database** – Stores and retrieves data using **SQL (MySQL, PostgreSQL) or NoSQL (MongoDB, Firebase)** databases.  
+
+**How it works:**  
+1. User interacts with the frontend.  
+2. Frontend sends a request to the backend.  
+3. Backend processes the request and queries the database if needed.  
+4. Data is returned to the frontend, which updates the UI.  
+
+Everything is connected via the **internet, APIs, and HTTP/HTTPS protocols** to ensure smooth communication. 🚀
